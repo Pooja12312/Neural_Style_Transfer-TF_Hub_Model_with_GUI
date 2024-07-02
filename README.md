@@ -23,4 +23,4 @@ This project applies neural style transfer to images using a pre-trained model f
 ## Output of app.py
 
 ### Interface 1
-![output(2)](https://github.com/Pooja12312/Character-Recognition-App-byclass-/blob/main/Interface/st1.png)
+![output(1)](https://github.com/Pooja12312/Neural_Style_Transfer-TF_Hub_Model_with_GUI/blob/main/Images/rain_princess-cat.png)
